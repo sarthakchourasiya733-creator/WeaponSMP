@@ -1,0 +1,10 @@
+name: CrownBreakerPlugin
+version: 1.0-SNAPSHOT
+main: com.weaponsmp.CrownBreakerPlugin
+api-version: '1.21'
+commands:
+  weaponsmp:
+    description: Main command for WeaponSMP plugin
+    permission: weaponsmp.admin
+    usage: /weaponsmp [give|recipe|enable]
+    
